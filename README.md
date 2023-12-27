@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут!
 
-[Duck Duck Go]([https://duckduckgo.com](https://nik9707.github.io/CCV-resume-/)https://nik9707.github.io/CCV-resume-/)
+[Моя работа на HTML & CSS]([https://duckduckgo.com](https://nik9707.github.io/CCV-resume-/)https://nik9707.github.io/CCV-resume-/)
